@@ -1,3 +1,5 @@
 nextcord
 httpx
 requests
+dotenv
+flask
